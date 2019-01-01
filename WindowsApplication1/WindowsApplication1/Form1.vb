@@ -4,7 +4,7 @@
         Dim x As Integer = Integer.Parse(TextBox1.Text)
         Dim y As Integer = Integer.Parse(TextBox2.Text)
         Dim z As Integer = x + y
-        MessageBox.Show("Addition of " + x + "and " + y + "is :" + z)
+        MessageBox.Show("Addition of " + x + "and " + y + "is :" + zh)
 
     End Sub
 

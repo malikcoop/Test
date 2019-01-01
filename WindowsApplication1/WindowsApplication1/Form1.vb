@@ -5,6 +5,8 @@
         Dim y As Integer = Integer.Parse(TextBox2.Text)
         Dim z As Integer = x + y
         MessageBox.Show("Addition of " & x & "and " & y & "is :" & z)
+        z = x - y
+        MessageBox.Show("Deduction :" & z)
 
     End Sub
 
